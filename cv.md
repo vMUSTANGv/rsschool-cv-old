@@ -19,3 +19,10 @@ I am Misha and I am 35 years old. I work in production, but I have always been i
 * JavaScript (Basic)
 * Git
 * Python (Basic)
+*****
+## Education and courses:
+*****
+* [Freecodecamp - Responsive Web Design](https://www.freecodecamp.org/ "Frontend")
+* [Yandex - free block HTML, CSS, JS](https://practicum.yandex.ru/web/ "Yandex")
+* [Stepik.org - HTML, CSS, Python](https://stepik.org/ "HTML, CSS, Python")
+*****
